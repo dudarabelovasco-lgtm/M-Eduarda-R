@@ -20,4 +20,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (UDF) e Jovem Aprendiz. Tenh
 ## Contato
 
 * GitHub: https://github.com/seu-usuario
-* LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-eduarda-rabelo-682313376?trk=contact-info)
+* LinkedIn: [(https://www.linkedin.com/in/maria-eduarda-rabelo-682313376?trk=contact-info)]
